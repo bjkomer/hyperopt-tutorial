@@ -1,5 +1,5 @@
 # hyperopt-tutorial
-A tutorial on the basics of using hyperopt. Includes notebook examples for both [hyperopt](https://github.com/hyperopt/hyperopt) and [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn).
+A tutorial on the basics of using hyperopt. Includes notebook examples for both [hyperopt](https://github.com/hyperopt/hyperopt) and [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn). Additional notebooks for hyperopt-sklearn can be found [here](https://github.com/bjkomer/hyperopt-sklearn/tree/notebooks/notebooks).
 
 ## Installation
 
